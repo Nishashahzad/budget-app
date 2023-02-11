@@ -119,4 +119,15 @@ width: 100%;
     opacity: 1;
 }
 
-
+@media(max-width: 350px) {
+    .container{
+        width: fit-content;
+        height: fit-content;
+    }
+}
+@media(max-width: 912px) {
+    .container{
+        width: fit-content;
+        height: fit-content;
+    }
+}
